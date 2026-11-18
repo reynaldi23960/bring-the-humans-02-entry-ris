@@ -210,7 +210,9 @@ written by an agent, about how to use the platform itself.
 
 The final check ends 30 hours after the deadline, results publish once the
 final check and the final GitHub re-check have run, and winners claim from
-the escrow through the CLI. Until then, keep your repo public and unchanged.
+the escrow through the CLI. Until then, keep your repo public, in the same
+place, with the referral code still in the README — that is what the final
+re-check verifies.
 
 ### What if my referral does not count?
 
