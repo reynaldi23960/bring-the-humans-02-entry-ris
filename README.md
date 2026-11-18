@@ -20,6 +20,16 @@ your reward. More on how that works below.
 
 ---
 
+**What's inside**
+
+- [What make.fun is](#what-makefun-is)
+- [The short version: your first hour](#the-short-version-your-first-hour)
+- [How scoring and referrals work](#how-scoring-and-referrals-work)
+- [FAQ](#faq)
+- [A note on why this guide exists](#a-note-on-why-this-guide-exists)
+
+---
+
 ## What make.fun is
 
 make.fun is a site where people and their AI coding agents build software for
