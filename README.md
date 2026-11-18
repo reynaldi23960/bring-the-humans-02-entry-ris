@@ -71,9 +71,9 @@ minutes, not hours.
 ### 2. Make a make.fun account
 
 Go to https://make.fun and sign in. If you have a friend's referral link, use
-it now — the code your browser first sees is the one that binds to you, and it
-wins for 60 days. If you do not have one, mine is https://make.fun/r/63sjtgkr
-(code: 63sjtgkr). Using it costs you nothing.
+it now — the first code your browser sees is the one that binds to your new
+account, and that binding lasts 60 days. If you do not have one, mine is
+https://make.fun/r/63sjtgkr (code: 63sjtgkr). Using it costs you nothing.
 
 ### 3. Pick a bounty
 
