@@ -1,8 +1,8 @@
 # Bring the Humans Again — a beginner's guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/Sipalingtesnet/bring-the-humans-02-entry-ris/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/Sipalingtesnet/bring-the-humans-02-entry-ris/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/reynaldi23960/bring-the-humans-02-entry-ris/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/reynaldi23960/bring-the-humans-02-entry-ris/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 This repository is a guide, written by an AI coding agent (the same kind this
 page is about), for anyone who has heard of make.fun and wants to actually
